@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\readme - en.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:readme - en.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\readme - pt_br.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:readme - pt_br.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\contracts\\orders\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:contracts\\orders\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\contracts\\orders\\createorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:contracts\\orders\\createorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\infrastructure\\kitchenqueuestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:infrastructure\\kitchenqueuestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6043301-4DD3-4212-85E2-8A92B02D90FC}|..\\KitchenSystem\\KitchenRoutingSystem.Tests.csproj|c:\\users\\ferkus\\source\\repos\\kitchensystem\\unit\\kitchenrouterservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6043301-4DD3-4212-85E2-8A92B02D90FC}|..\\KitchenSystem\\KitchenRoutingSystem.Tests.csproj|c:\\users\\ferkus\\source\\repos\\kitchensystem\\integration\\orderapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\services\\kitchenrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:services\\kitchenrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\services\\interfaces\\ikitchenrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:services\\interfaces\\ikitchenrouterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\domain\\kitchenarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:domain\\kitchenarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|c:\\users\\ferkus\\source\\repos\\kitchenroutingteste\\domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D01AA-ACC2-43F2-99B8-5315B958CA94}|KitchenRouting.csproj|solutionrelative:domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6043301-4DD3-4212-85E2-8A92B02D90FC}|..\\KitchenSystem\\KitchenRoutingSystem.Tests.csproj|c:\\users\\ferkus\\source\\repos\\kitchensystem\\kitchenroutingsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenSystem\\Integration\\OrderApiTests.cs",
+              "RelativeDocumentMoniker": "..\\KitchenSystem\\Integration\\OrderApiTests.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenSystem\\Integration\\OrderApiTests.cs",
+              "RelativeToolTip": "..\\KitchenSystem\\Integration\\OrderApiTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABBwDYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:53:08.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Contracts\\Orders\\CreateOrderResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Orders\\CreateOrderResponse.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Contracts\\Orders\\CreateOrderResponse.cs",
+              "RelativeToolTip": "Contracts\\Orders\\CreateOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:53:32.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:57:05.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KitchenArea.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Domain\\KitchenArea.cs",
+              "RelativeDocumentMoniker": "Domain\\KitchenArea.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Domain\\KitchenArea.cs",
+              "RelativeToolTip": "Domain\\KitchenArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:00:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Contracts\\Orders\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Orders\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Contracts\\Orders\\CreateOrderRequest.cs",
+              "RelativeToolTip": "Contracts\\Orders\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:52:59.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Domain\\Order.cs",
+              "RelativeToolTip": "Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:49:29.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IKitchenRouterService.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Services\\Interfaces\\IKitchenRouterService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IKitchenRouterService.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Services\\Interfaces\\IKitchenRouterService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IKitchenRouterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:57:26.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KitchenRouterService.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Services\\KitchenRouterService.cs",
+              "RelativeDocumentMoniker": "Services\\KitchenRouterService.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Services\\KitchenRouterService.cs",
+              "RelativeToolTip": "Services\\KitchenRouterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:58:12.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:57:21.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README - EN.md",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\README - EN.md",
+              "RelativeDocumentMoniker": "README - EN.md",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\README - EN.md",
+              "RelativeToolTip": "README - EN.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-03T20:57:09.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README - PT_BR.MD",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\README - PT_BR.MD",
+              "RelativeDocumentMoniker": "README - PT_BR.MD",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\README - PT_BR.MD",
+              "RelativeToolTip": "README - PT_BR.MD",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-03T14:08:06.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KitchenRouterServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenSystem\\Unit\\KitchenRouterServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\KitchenSystem\\Unit\\KitchenRouterServiceTests.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenSystem\\Unit\\KitchenRouterServiceTests.cs",
+              "RelativeToolTip": "..\\KitchenSystem\\Unit\\KitchenRouterServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:53:45.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KitchenQueueStore.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Infrastructure\\KitchenQueueStore.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\KitchenQueueStore.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Infrastructure\\KitchenQueueStore.cs",
+              "RelativeToolTip": "Infrastructure\\KitchenQueueStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:56:34.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KitchenRoutingSystem.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenSystem\\KitchenRoutingSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\KitchenSystem\\KitchenRoutingSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenSystem\\KitchenRoutingSystem.Tests.csproj",
+              "RelativeToolTip": "..\\KitchenSystem\\KitchenRoutingSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T12:43:21.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Domain\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Domain\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Ferkus\\source\\repos\\KitchenRoutingTeste\\Domain\\OrderItem.cs",
+              "RelativeToolTip": "Domain\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:49:14.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "KitchenRoutingSystem.Controllers.OrdersController",
+    "Method": "CreateOrder",
+    "RelativePath": "orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "KitchenRoutingSystem.Contracts.Orders.CreateOrderRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KitchenRoutingSystem.Contracts.Orders.CreateOrderResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KitchenRoutingSystem.Controllers.OrdersController",
+    "Method": "GetQueuesStatus",
+    "RelativePath": "orders/queues",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
